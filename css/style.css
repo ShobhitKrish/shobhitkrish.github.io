@@ -8429,11 +8429,11 @@ h1, h2, h3, h4, h5,
     .slider-text h1 {
       font-size: 3rem; } }
 
-.slider-text h2 {
+.slider-text h5 {
+  height: 3rem;
   font-weight: 800; }
-  .slider-text h2 span {
-    color: #3e64ff;
-    text-decoration: underline; }
+  .slider-text h5 span {
+    color: #3e64ff;}
 
 .slider-text p {
   font-size: 1rem;
