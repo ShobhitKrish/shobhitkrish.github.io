@@ -9702,8 +9702,11 @@ textarea.form-control {
       background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
   }
   
-  /* Modal Content */
-  .modal-content {
+/*
+MODAL DIALOGUES CLASS
+*/
+/* Modal Content */
+.modal-content {
       background-color: #fefefe;
       margin: auto;
       padding: 20px;
@@ -9712,15 +9715,18 @@ textarea.form-control {
   }
   
   /* The Close Button */
-  .close {
+  .close1, .close2, .close3, .close4, .close5 {
       color: #aaaaaa;
       float: right;
       font-size: 28px;
       font-weight: bold;
   }
   
-  .close:hover,
-  .close:focus {
+  .close1:hover, .close1:focus,
+  .close2:hover, .close2:focus,
+  .close3:hover, .close3:focus,
+  .close4:hover, .close4:focus,
+  .close5:hover, .close5:focus {
       color: #000;
       text-decoration: none;
       cursor: pointer;
@@ -9753,7 +9759,6 @@ textarea.form-control {
   .tabs {
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.5);
  }
   .tab {
     width: 100%;
