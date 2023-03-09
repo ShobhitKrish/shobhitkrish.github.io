@@ -9809,6 +9809,7 @@ MODAL DIALOGUES CLASS
     transform: rotate(90deg);
  }
   input:checked ~ .tab-content {
+    overflow-y: auto;
     max-height: 100vh;
     padding: 1em;
  }
