@@ -9776,13 +9776,13 @@ MODAL DIALOGUES CLASS
     display: flex;
     justify-content: space-between;
     padding: 1em;
-    background: #2c3e50;
+    background: #3E64FF;
     font-weight: bold;
     cursor: pointer;
    /* Icon */
  }
   .tab-label:hover {
-    background: #1a252f;
+    background: #2e49b8;
  }
   .tab-label::after {
     content: "\276F";
@@ -9807,10 +9807,10 @@ MODAL DIALOGUES CLASS
     cursor: pointer;
  }
   .tab-close:hover {
-    background: #1a252f;
+    background: #3E64FF;
  }
   input:checked + .tab-label {
-    background: #1a252f;
+    background: #2e49b8;
  }
   input:checked + .tab-label::after {
     transform: rotate(90deg);
