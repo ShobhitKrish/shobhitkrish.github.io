@@ -9688,7 +9688,7 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-    .modal {
+.modal {
       display: none; /* Hidden by default */
       position: fixed; /* Stay in place */
       z-index: 2; /* Sit on top */
