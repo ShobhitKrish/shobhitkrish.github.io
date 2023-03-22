@@ -487,7 +487,6 @@ var span9 = document.getElementsByClassName("close9")[0];
 var span10 = document.getElementsByClassName("close10")[0];
 var span11 = document.getElementsByClassName("close11")[0];
 
-
 // When the user clicks the button, open the modal
 // Success Stories
 btn1.onclick = function() {
